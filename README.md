@@ -1,12 +1,12 @@
 Package installer 
 =========
-[![PyPI](https://img.shields.io/pypi/v/python-module-installer)](https://pypi.org/project/python-module-installer/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-module-installer)  
+[![PyPI](https://img.shields.io/pypi/v/python-requirements)](https://pypi.org/project/python-requirements/) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-requirements)  
 This package helps you to install all modules you need in your directory.
 
 Installation
 ------------
 ```bash
-$ pip install python-module-requirements
+$ pip install python-requirements
 ```
 
 Sample Usage
